@@ -4,4 +4,4 @@
 
 ## Important Files:
 
-- Full design report can be found at <github.com/sconnair/1182.02-TDR/1182.02-TDR-Report.pdf>
+- [Full Project Report](github.com/sconnair/1182.02-TDR/1182.02-TDR-Report.pdf)
