@@ -6,10 +6,10 @@ Over the course of the project, we went from concept art to clay prototype to a 
 
 
 ## Important Files and Folders:
-- [Prototyping gcode](github.com/sconnair/1182.02-TDR/ZenPen-gcode/)
-- [Photo Documentation of Prototype Versions & Testing](github.com/sconnair/1182.02-TDR/imgDev/)
-- [Final Version STL Files](github.com/sconnair/1182.02-TDR/v9-STL)
-- [Full Project Report](github.com/sconnair/1182.02-TDR/1182.02-TDR-Report.pdf)
-- [Final Model Drawings](github.com/sconnair/1182.02-TDR/v9DrawingPacket.pdf)
-- [Project Budgeting Table](github.com/sconnair/1182.02-TDR/budget.md)
-- [Prototype Development History](github.com/sconnair/1182.02-TDR/versionHistory.md)
+- [Prototyping gcode](https://github.com/sconnair/1182.02-TDR/tree/main/ZenPen-gcode)
+- [Photo Documentation of Prototype Versions & Testing](https://github.com/sconnair/1182.02-TDR/tree/main/imgDev)
+- [Final Version STL Files](https://github.com/sconnair/1182.02-TDR/tree/main/v9-STL)
+- [Full Project Report](https://github.com/sconnair/1182.02-TDR/blob/main/1182.02-TDR-Report.pdf)
+- [Final Model Drawings](https://github.com/sconnair/1182.02-TDR/blob/main/v9DrawingPacket.pdf)
+- [Project Budgeting Table](https://github.com/sconnair/1182.02-TDR/blob/main/budget.md)
+- [Prototype Development History](https://github.com/sconnair/1182.02-TDR/blob/main/versionHistory.md)
